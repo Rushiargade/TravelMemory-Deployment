@@ -405,11 +405,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 **Rushikesh Argade**  
-Junior DevOps/Systems Administrator | ESDS
+
 
 - 📧 Email: rushikeshargade54@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/rushikesh-argade](https://linkedin.com/in/rushikesh-argade)
-- 🌐 Portfolio: [rushi.online](https://rushi.online)
+- 🌐 Portfolio: https://safe-newt-d0e.notion.site/Rushikesh-Argade-2bd128cc292480b1a59cc8f6d0b1318e?source=copy_link
 - 📁 GitHub: [@Rushiargade](https://github.com/Rushiargade)
 
 ---
